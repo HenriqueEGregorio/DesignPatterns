@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns_1.Models
+﻿namespace Strategy.Models
 {
     public class Budget
     {

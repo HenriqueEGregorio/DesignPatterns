@@ -1,7 +1,7 @@
-﻿using DesignPatterns_1.Models;
-using DesignPatterns_1.Models.Interfaces;
+﻿using Strategy.Models;
+using Strategy.Models.Interfaces;
 
-namespace DesignPatterns_1.Services
+namespace Strategy.Services
 {
     public class Icms : ITax
     {

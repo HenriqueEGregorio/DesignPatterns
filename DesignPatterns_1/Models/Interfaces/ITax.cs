@@ -1,6 +1,6 @@
-﻿using DesignPatterns_1.Models;
+﻿using Strategy.Models;
 
-namespace DesignPatterns_1.Models.Interfaces
+namespace Strategy.Models.Interfaces
 {
     public interface ITax
     {

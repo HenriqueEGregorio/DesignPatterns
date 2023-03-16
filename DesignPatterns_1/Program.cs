@@ -1,5 +1,5 @@
-﻿using DesignPatterns_1.Models;
-using DesignPatterns_1.Services;
+﻿using Strategy.Models;
+using Strategy.Services;
 
 var iss = new Iss();
 var icms = new Icms();
